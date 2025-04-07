@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "407461672757",
+    "firebase_url": "https://fireeye-96f22-default-rtdb.firebaseio.com",
+    "project_id": "fireeye-96f22",
+    "storage_bucket": "fireeye-96f22.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:407461672757:android:929ab21ad8bcc0771f3e7c",
+        "android_client_info": {
+          "package_name": "com.companyname.fireeye"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSaCNb1ald1gMMeSiZfYOWcfD2-x-w3Mk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:407461672757:android:51654678295752cd1f3e7c",
+        "android_client_info": {
+          "package_name": "com.fireeye.fireeye"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSaCNb1ald1gMMeSiZfYOWcfD2-x-w3Mk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
